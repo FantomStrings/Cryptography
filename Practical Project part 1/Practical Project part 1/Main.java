@@ -10,8 +10,6 @@ import java.util.HexFormat;
 import java.util.Scanner;
 /**
  * @author rick_adams.
- * TCSS 487A.
- * Practical Project part 1.
  * @version 2024 AU.
  * Main program (driver).
  */
