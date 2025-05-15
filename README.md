@@ -1,4 +1,4 @@
-# SHASHAKE
+# SHA3SHAKE
 
 ## Description
 
